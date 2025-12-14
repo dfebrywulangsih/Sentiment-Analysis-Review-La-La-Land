@@ -8,4 +8,5 @@ wordcloud
 altair
 joblib
 nltk
+vaderSentiment
 gensim
