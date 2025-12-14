@@ -8,3 +8,4 @@ wordcloud
 altair
 joblib
 nltk
+gensim
